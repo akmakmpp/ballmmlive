@@ -62,28 +62,28 @@
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274326711_360141939300489_2230012289457155844_n.jpg",
   "links":[
   {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8",
-   "link": "Vietnum(SD)"
+   "link": "Vietnum(HD)"
   
     },
     
-  {"livelink": "",
-   "link": "Link-2"
+  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Iqh_MLsvLzex5gAu9abNxaKtr6mdIAvMfcOa4w3BkEoYFUD2KnsL2kzE2ch8OruyrxcD6LR6hpHQcDXhvqJFow/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+   "link": "DAZN Sport(HD)"
    
     }
   ]
 },
   {
-  "date":"Mar 6",
-  "league": "Seria A",
+  "date":"Seria A",
+  "league": "🔴 Live Now",
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274843226_673706027004559_3640235075316843750_n.jpg",
   "links":[
-  {"livelink": "",
-   "link": "Link-1"
+  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Iqh_MLsvLzex5gAu9abNxaKtr6mdIAvMfcOa4w3BkEoYFUD2KnsL2kzE2ch8OruyrxcD6LR6hpHQcDXhvqJFow/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+   "link": "DAZN Sport (HD)"
   
     },
     
-  {"livelink": "",
-   "link": "Link-2"
+  {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8",
+   "link": "Vietnum(HD)"
    
     }
   ]
