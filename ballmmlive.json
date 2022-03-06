@@ -20,11 +20,6 @@
   
     },
     
-  {"livelink": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/hRSL9U7P5zhwxF_ymQlttmMtd0F5w9bdjhhFoLrL859w-vA7msduxYrdRQ3iiVUqC9TSoOd3dsarvtv7HusqqA/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live",
-   "link": "Bein Arab(HD)"
-   
-    },
-    
   {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
    "link": "Vietnum(SD)"
    
