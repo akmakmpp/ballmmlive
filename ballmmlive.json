@@ -1,23 +1,8 @@
 [
-{
-  "date":"🔴 Live Now",
-  "league": "Spain Laliga",
-  "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274886975_999899870950495_444500521844799584_n.jpg",
-  "links":[
-  {"livelink": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4w2j0ln0ocVLYsdFvkwZip1DpjbYWKQzZAh2nQnKZLEAltg52HkjD47UA3pIEh-KCm4gAipQrxStlEFnTe9-qA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "Laliga TV"
-  
-    },
-    
-  {"livelink": "https://hll.hnzzdf.com.cn/live/H113222.m3u8?txSecret=d0f5b647440a9f5de8ced289ccc8402e&txTime=6225D27E&_s=stream",
-   "link": "CCTV"
-   
-    }
-  ]
-},
+
   {
-  "date":"🔴 Live Now",
-  "league": "Premier League",
+  "date":"Premier League",
+  "league": "🔴 Live Now",
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274381086_473580254498735_5890755497391996632_n.jpg",
   "links":[
   {"livelink": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9Lp6VXwZ5dvVRLxjMwVxU2Ip9_C7T3ApkfEJqC0w9IUytCrttvq448kgp5rjVtbRnKiAGX97NQWIndc2wR7YrQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
@@ -37,8 +22,8 @@
   ]
 },
   {
-  "date":"Mar 6",
-  "league": "Spain Laliga",
+  "date":"Spain Laliga",
+  "league": "🔴 Live Now",
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274544311_1024712754781440_3976687093122826680_n.jpg",
   "links":[
   {"livelink": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4w2j0ln0ocVLYsdFvkwZip1DpjbYWKQzZAh2nQnKZLEAltg52HkjD47UA3pIEh-KCm4gAipQrxStlEFnTe9-qA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
