@@ -1,26 +1,4 @@
 [
-
-  {
-  "date":"Premier League",
-  "league": "🔴 Live Now",
-  "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274381086_473580254498735_5890755497391996632_n.jpg",
-  "links":[
-  {"livelink": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9Lp6VXwZ5dvVRLxjMwVxU2Ip9_C7T3ApkfEJqC0w9IUytCrttvq448kgp5rjVtbRnKiAGX97NQWIndc2wR7YrQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "Sky Premier(HD)"
-  
-    },
-    
-  {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-   "link": "Vietnum(SD)"
-   
-    },
-    
-  {"livelink": "https://hll.hnzzdf.com.cn/live/H111246.m3u8?txSecret=91bc844f76c9cd5e9f9bc0f64449631b&txTime=6225D27F&_s=stream",
-   "link": "Diema Sport(HD)"
-   
-    }
-  ]
-},
   {
   "date":"Spain Laliga",
   "league": "🔴 Live Now",
@@ -38,8 +16,8 @@
   ]
 },
   {
-  "date":"Mar 6",
-  "league": "Premier League",
+  "date":"Premier League",
+  "league": "🔴 Live Now",
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274495886_514602670086128_5701786997864865719_n.jpg",
   "links":[
   {"livelink": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9Lp6VXwZ5dvVRLxjMwVxU2Ip9_C7T3ApkfEJqC0w9IUytCrttvq448kgp5rjVtbRnKiAGX97NQWIndc2wR7YrQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
@@ -57,7 +35,7 @@
    
     },
     
-  {"livelink": "",
+  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/hBn7Qm_9LA78gQWxK-VxRVwvnfvIUqdqOOSbLUzu19hxcW8gSfj8H5wWVBxoaLy3V0I5zU3TojWOcg29bJHbwA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
    "link": "RMC Sport(HD)"
    
     },
