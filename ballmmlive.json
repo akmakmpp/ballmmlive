@@ -7,6 +7,11 @@
   {"livelink": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4w2j0ln0ocVLYsdFvkwZip1DpjbYWKQzZAh2nQnKZLEAltg52HkjD47UA3pIEh-KCm4gAipQrxStlEFnTe9-qA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
    "link": "Laliga TV"
   
+    },
+    
+  {"livelink": "https://hll.hnzzdf.com.cn/live/H113222.m3u8?txSecret=d0f5b647440a9f5de8ced289ccc8402e&txTime=6225D27E&_s=stream",
+   "link": "CCTV"
+   
     }
   ]
 },
@@ -41,8 +46,8 @@
   
     },
     
-  {"livelink": "",
-   "link": "Link-2"
+  {"livelink": "https://hll.hnzzdf.com.cn/live/H113222.m3u8?txSecret=d0f5b647440a9f5de8ced289ccc8402e&txTime=6225D27E&_s=stream",
+   "link": "CCTV"
    
     }
   ]
