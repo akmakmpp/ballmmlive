@@ -5,7 +5,7 @@
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274886975_999899870950495_444500521844799584_n.jpg",
   "links":[
   {"livelink": "",
-   "link": "Link-1"
+   "link": "Laliga TV"
   
     },
     
@@ -21,12 +21,17 @@
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274381086_473580254498735_5890755497391996632_n.jpg",
   "links":[
   {"livelink": "",
-   "link": "Link-1"
+   "link": "Sky Premier(HD)"
   
     },
     
   {"livelink": "",
-   "link": "Link-2"
+   "link": "Bein Eng(HD)"
+   
+    },
+    
+  {"livelink": "",
+   "link": "Vietnum(SD)"
    
     }
   ]
@@ -53,12 +58,27 @@
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274495886_514602670086128_5701786997864865719_n.jpg",
   "links":[
   {"livelink": "",
-   "link": "Link-1"
+   "link": "Sky Premier(HD)"
   
     },
     
   {"livelink": "",
-   "link": "Link-2"
+   "link": "Bein Eng(HD)"
+   
+    },
+    
+  {"livelink": "",
+   "link": "Vietnum(SD)"
+   
+    },
+    
+  {"livelink": "",
+   "link": "RMC Sport(HD)"
+   
+    },
+    
+  {"livelink": "",
+   "link": "Vietnum(HD)"
    
     }
   ]
