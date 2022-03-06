@@ -1,20 +1,5 @@
 [
-  {
-  "date":"Spain Laliga",
-  "league": "🔴 Live Now",
-  "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274544311_1024712754781440_3976687093122826680_n.jpg",
-  "links":[
-  {"livelink": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4w2j0ln0ocVLYsdFvkwZip1DpjbYWKQzZAh2nQnKZLEAltg52HkjD47UA3pIEh-KCm4gAipQrxStlEFnTe9-qA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "Laliga TV"
-  
-    },
-    
-  {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8",
-   "link": "Vietnum(SD)"
-   
-    }
-  ]
-},
+ 
   {
   "date":"Premier League",
   "league": "🔴 Live Now",
