@@ -2,69 +2,12 @@
  
   {
   "date":"Premier League",
-  "league": "🔴 Live Now",
+  "league": "Match End",
   "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274495886_514602670086128_5701786997864865719_n.jpg",
   "links":[
   {"livelink": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9Lp6VXwZ5dvVRLxjMwVxU2Ip9_C7T3ApkfEJqC0w9IUytCrttvq448kgp5rjVtbRnKiAGX97NQWIndc2wR7YrQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
    "link": "Sky Premier(HD)"
   
-    },
-    
-  {"livelink": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/JxspxaUKKfCymnt9tzj0woqGs8LMWV6hqp2RWMJSloXomO5bACJ582fcdfyAUQ_Q46FVhasEKbw5iO9CtMZmqw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "Bein Eng(HD)"
-   
-    },
-    
-  {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-   "link": "Vietnum(SD)"
-   
-    },
-    
-  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/hBn7Qm_9LA78gQWxK-VxRVwvnfvIUqdqOOSbLUzu19hxcW8gSfj8H5wWVBxoaLy3V0I5zU3TojWOcg29bJHbwA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "RMC Sport(HD)"
-   
-    },
-    
-  {"livelink": "https://d3bh6k6cdgaj10.cloudfront.net/hls/usa/chunks.m3u8",
-   "link": "USA (HD)"
-   
-    },
-    
-  {"livelink": "https://hll.hnzzdf.com.cn/live/H111247.m3u8?txSecret=7106b210f03f63ccb4a2f1e1ba9ec158&txTime=6225D27F&_s=stream",
-   "link": "Diema (HD)"
-   
-    }
-  ]
-},
-  {
-  "date":"Seria A",
-  "league": "🔴 Live Now",
-  "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274326711_360141939300489_2230012289457155844_n.jpg",
-  "links":[
-  {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8",
-   "link": "Vietnum(HD)"
-  
-    },
-    
-  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Iqh_MLsvLzex5gAu9abNxaKtr6mdIAvMfcOa4w3BkEoYFUD2KnsL2kzE2ch8OruyrxcD6LR6hpHQcDXhvqJFow/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "DAZN Sport(HD)"
-   
-    }
-  ]
-},
-  {
-  "date":"Seria A",
-  "league": "🔴 Live Now",
-  "img":"https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/274843226_673706027004559_3640235075316843750_n.jpg",
-  "links":[
-  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Iqh_MLsvLzex5gAu9abNxaKtr6mdIAvMfcOa4w3BkEoYFUD2KnsL2kzE2ch8OruyrxcD6LR6hpHQcDXhvqJFow/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-   "link": "DAZN Sport (HD)"
-  
-    },
-    
-  {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8",
-   "link": "Vietnum(HD)"
-   
     }
   ]
 }
