@@ -5,8 +5,12 @@
   "league": "Mar 9, (2:30 AM)",
   "img":"https://www.liveonscore.com/wp-content/uploads/2022/02/Bayern-Munich-vs-Salzburg-Preview-and-Prediction-Live-stream-UEFA-Champions-League-18-Finals-2022.jpg",
   "links":[
-  {"livelink": "",
-   "link": "Sky Premier(HD)"
+  {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/WbgPS-jRhMBlXx0JuANQ9msMOMOrLm64YCXdxdLYVW_0FwqMNSHs83njnpRAm9pSIwxXdFEkCOr2Z0JcRloMIg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+   "link": "BT SPORT 3"
+  
+    },
+    {"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+   "link": "Vietnum(SD)"
   
     }
   ]
