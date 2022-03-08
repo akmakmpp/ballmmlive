@@ -17,8 +17,8 @@
   "league": "Mar 9, (2:30 AM)",
   "img":"https://worldtickets.hu/wp-content/uploads/2019/08/liverpool-Inter.jpg",
   "links":[
-  {"livelink": "",
-   "link": "Sky Premier(HD)"
+  {"livelink": "http://tvn.x10.bz/xchannel/master-3.m3u8",
+   "link": "LFC TV"
   
     }
   ]
