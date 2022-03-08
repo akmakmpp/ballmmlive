@@ -17,8 +17,16 @@
   "league": "Mar 9, (2:30 AM)",
   "img":"https://worldtickets.hu/wp-content/uploads/2019/08/liverpool-Inter.jpg",
   "links":[
-  {"livelink": "http://tvn.x10.bz/xchannel/master-3.m3u8",
-   "link": "LFC TV"
+  {"livelink": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xvnCZa5QtSmJk5Db6oZ2eQPUgBDjYdEx8x1512dcg0IDi7MzFi5T5MdJPQYHfzBIneq2NOMuG1kE9N4lizTbyA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+   "link": "BT SPORT 2"
+  
+    },
+    {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/CY0Blkeabsk_T9Gecr7iuWLKIeGGhB4HEoK1_V90eret1d_Q5ChJQkAnjluLVr3562BIV_wc-_6R9Di17PymXA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+   "link": "SKY UNO"
+  
+    },
+    {"livelink": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/z8v8xcBm_bgkRRDTaZeFdGYPgFbGgQ5Mlw2uejV8D_S1Zwe2w3PSyPhzHS8k0z7HzhwTmYg5FPbZ83Nkv4tJjQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+   "link": "RMC SPORT"
   
     }
   ]
